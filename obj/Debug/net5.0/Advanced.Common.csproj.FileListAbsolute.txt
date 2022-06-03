@@ -1,0 +1,13 @@
+E:\ZhaoXi\AppRun\Advanced.Common\bin\Debug\net5.0\NOTICE.TXT
+E:\ZhaoXi\AppRun\Advanced.Common\bin\Debug\net5.0\Advanced.Common.deps.json
+E:\ZhaoXi\AppRun\Advanced.Common\bin\Debug\net5.0\Advanced.Common.dll
+E:\ZhaoXi\AppRun\Advanced.Common\bin\Debug\net5.0\ref\Advanced.Common.dll
+E:\ZhaoXi\AppRun\Advanced.Common\bin\Debug\net5.0\Advanced.Common.pdb
+E:\ZhaoXi\AppRun\Advanced.Common\obj\Debug\net5.0\Advanced.Common.csproj.AssemblyReference.cache
+E:\ZhaoXi\AppRun\Advanced.Common\obj\Debug\net5.0\Advanced.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\ZhaoXi\AppRun\Advanced.Common\obj\Debug\net5.0\Advanced.Common.AssemblyInfoInputs.cache
+E:\ZhaoXi\AppRun\Advanced.Common\obj\Debug\net5.0\Advanced.Common.AssemblyInfo.cs
+E:\ZhaoXi\AppRun\Advanced.Common\obj\Debug\net5.0\Advanced.Common.csproj.CoreCompileInputs.cache
+E:\ZhaoXi\AppRun\Advanced.Common\obj\Debug\net5.0\Advanced.Common.dll
+E:\ZhaoXi\AppRun\Advanced.Common\obj\Debug\net5.0\ref\Advanced.Common.dll
+E:\ZhaoXi\AppRun\Advanced.Common\obj\Debug\net5.0\Advanced.Common.pdb
